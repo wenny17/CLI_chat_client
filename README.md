@@ -1,6 +1,6 @@
-# CLI Chatbot
+# CLI chat client
 
-Client for chatbot from CLI. Allow reading/writing to chat
+Client for chat from CLI. Allow reading/writing to chat
 
 ## How to install
 
